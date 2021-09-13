@@ -6,7 +6,7 @@ from label_wids import show_labels
 
 root = Tk()
 root.title("Calculator App")
-root.iconbitmap("Calculator App/icon-calculator-24.ico")
+root.iconbitmap("icon-calculator-24.ico")
 
 
 show_labels(root)
