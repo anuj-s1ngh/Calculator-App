@@ -1,2 +1,2 @@
 # Calculator-App
- This is just another calculator using python eval() function for calculations.
+GUI calculator using python eval() function for calculations.
